@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxbase31ud.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxbase31ud_net.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxbase31ud_xml.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxexpatd.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxjpegd.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxmsw31ud_adv.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxmsw31ud_aui.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxmsw31ud_core.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxmsw31ud_gl.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxmsw31ud_html.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxmsw31ud_media.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxmsw31ud_propgrid.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxmsw31ud_qa.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxmsw31ud_ribbon.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxmsw31ud_richtext.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxmsw31ud_stc.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxmsw31ud_webview.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxmsw31ud_xrc.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxpngd.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxregexud.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxscintillad.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxtiffd.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\wxWidgets\lib\vc_lib\wxzlibd.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\cryptopp\Win32\Output\Debug\cryptlib.lib">
+      <Filter>Fichiers sources</Filter>
+    </Library>
+  </ItemGroup>
+</Project>
